@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALK Sanet';
+    src: url('../fonts/geofont/alk-sanet-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/geofont/alk-sanet-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/geofont/alk-sanet-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/geofont/alk-sanet-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/geofont/alk-sanet-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/geofont/alk-sanet-webfont.svg#alk_sanetregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('../fonts/latfont/SourceCodePro-Medium.eot');
+    src: url('../fonts/latfont/SourceCodePro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/latfont/SourceCodePro-Medium.woff2') format('woff2'),
+        url('../fonts/latfont/SourceCodePro-Medium.woff') format('woff'),
+        url('../fonts/latfont/SourceCodePro-Medium.ttf') format('truetype'),
+        url('../fonts/latfont/SourceCodePro-Medium.svg#SourceCodePro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

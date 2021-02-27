@@ -1,0 +1,167 @@
+
+
+.nav-1{
+	color:#3D58A6;
+	font-size:22px;
+
+}
+.active{
+	color:#EE4036;
+}
+.navigation{
+	margin-left: 50px;
+	display:inline-block;
+	vertical-align: middle;
+	margin-top: 30px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 30px;
+	margin-left: 31px;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 22px;
+	font-size: 22px;
+}
+.leftbox {
+	background-color: #F2F2F2;
+	display: inline-block;
+	width: 570px;
+	padding-top: 13px;
+	margin-left: 98px;
+	margin-bottom: 63px;
+	margin-top: 31px;
+}
+.rightbox {
+	background-color: #F2F2F2;
+	display: inline-block;
+	width: 570px;
+	padding-top: 13px;
+	margin-left: 29px;
+}
+.box1{
+	padding-left: 19px;
+	color: #3D58A6;
+	font-size: 22px;
+}
+.box2{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 60px;
+	padding-top: 15px;
+	padding-left: 35px;
+	padding-bottom: 37px;
+}
+.box3{
+	display: inline-block;
+	width: 355px;
+	vertical-align: middle;
+	font-size: 20px;
+	font-family: 'Source Code Pro';
+}
+.divider {
+	display: inline-block;
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	margin-left: 35px;
+	margin-right: 30px;
+}
+.fb {
+	margin-left: 107px;
+}
+.banner {
+	margin-left: 98px;
+	margin-top: 82px;
+	margin-right: 98px;
+	margin-bottom: 119px;
+}
+.miu { 
+	font-size: 24px;
+	margin-left: 98px;
+	font-family: 'Akaya Telivigala', cursive;
+}
+
+ * {
+	box-sizing: border-box;
+}
+.date{
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 48px;
+	color: #fffF;
+	margin-left: 31px;
+	margin-top: 44px;
+	padding-left: 5px;
+	padding-top: 4px;
+
+}
+.text-4{
+	font-size: 22px;
+	margin-left: 31px;
+	margin-top: 2px;
+	color: #3D58A6;
+}
+.text-5{
+	font-size: 22px;
+	margin-left: 31px;
+	margin-top: 33px;
+	margin-bottom: 14px;
+}
+.text-6 {
+	display: inline-block;
+	width: 270px;
+	vertical-align: top;
+	margin-left: 31px;
+	margin-right: 50px;
+}
+.div {
+	display: inline-block;
+	width: 922px;
+	vertical-align: top;
+	font-family: 'ALK Sanet';
+
+}
+
+.div1 {
+	font-size: 16px;
+	margin-bottom: 26px;
+}
+.div2{
+	font-size: 16px;
+	margin-bottom: 26px;
+}
+.siv3{
+	font-size: 16px;
+}
+.box-information {
+	width:258px;
+	height:93px;
+	display:inline-block;
+	vertical-align:top;
+	margin-top:80px;
+	margin-left:97px;
+	margin-right:66px;
+}
+.map1 {
+	width:848.5;
+	height:464.5;
+	display:inline-block;
+	margin-top:63px;
+}
+.map2 {
+	width:848.5;
+	height:464.5;
+}
+.contact{
+	color:#808080;
+	font-size:16px;
+}
+.info{
+	color:#3D58A6;
+	font-size:20px;
+	margin-bottom:16px;
+}
